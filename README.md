@@ -13,7 +13,7 @@ from the picture we can see the answer is
 
 - C: 8.382332347441762
 
-<img src="https://github.com/juandavidlozano/Homework3_zoomcamp/blob/main/homeworkw.1.jpg" alt="Answer 1" width="500" height="500">
+<img src="https://github.com/juandavidlozano/Workshop1/blob/main/homeworkw.1.jpg" alt="Answer 1" width="500" height="500">
 
 
 
@@ -29,7 +29,7 @@ from the picture we can see the answer is
 
 -  B: 3.605551275463989
 
-<img src="https://github.com/juandavidlozano/Homework3_zoomcamp/blob/main/homeworkw.2.jpg" alt="Answer 1" width="500" height="500">
+<img src="https://github.com/juandavidlozano/Workshop1/blob/main/homeworkw.2.jpg" alt="Answer 1" width="500" height="500">
 
 ## Question 3: 
 
@@ -43,7 +43,7 @@ from the picture we can see the answer is
 
 - A: 353
 
-<img src="https://github.com/juandavidlozano/Homework3_zoomcamp/blob/main/homeworkw.3.jpg" alt="Answer 1" width="500" height="500">
+<img src="https://github.com/juandavidlozano/Workshop1/blob/main/homeworkw.3.jpg" alt="Answer 1" width="500" height="500">
 
 ## Question 4:
 
@@ -57,7 +57,7 @@ from the picture we can see the answer is
 
 - B: 266
 
-<img src="https://github.com/juandavidlozano/Homework3_zoomcamp/blob/main/homeworkw.4.jpg" alt="Answer 1" width="500" height="500">
+<img src="https://github.com/juandavidlozano/Workshop1/blob/main/homeworkw.4.jpg" alt="Answer 1" width="500" height="500">
 
 
 
